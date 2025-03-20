@@ -1,4 +1,37 @@
-## Hi there 👋
+├── client/
+│   ├── index.html
+│   ├── src/
+│       ├── components/
+│       ├── hooks/
+│       ├── lib/
+│       ├── pages/
+│       ├── store/
+│       ├── App.tsx
+│       ├── index.css
+│       └── main.tsx
+├── server/
+│   ├── index.ts
+│   ├── routes.ts
+│   ├── storage.ts
+│   └── vite.ts
+├── shared/
+│   └── schema.ts
+├── .env.example
+├── .gitignore
+├── deploy-config.json
+├── drizzle.config.ts
+├── package.json
+├── package-lock.json
+├── Procfile
+├── railway.json
+├── README.md
+├── render.yaml
+├── tailwind.config.ts
+├── theme.json
+├── tsconfig.json
+├── tsconfig.server.json
+├── vercel.json
+└── vite.config.ts
 
 <!--
 **1xpink/1xpink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
